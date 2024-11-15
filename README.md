@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : S Ashwinkumar
+### DEVELOPED BY : Ashwinkumar s
 ### REGISTER NO: 212222040020
 
 ### MainActivity.java:
@@ -121,19 +121,19 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
-<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="400">
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b"  width="200">
 
 ## OnPause Executed:
-<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="400">
+<img src="https://github.com/user-attachments/assets/d2c9b511-035a-4c95-9402-accd6bcb1d48" width="200">
 
 ## OnResume Executed:
-<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="400">
+<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="200">
 
 ## OnRestart Executed:
-<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="400">
+<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="200">
 
 ## OnStart Executed:
-<img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="400">
+<img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="200">
 
 
 
