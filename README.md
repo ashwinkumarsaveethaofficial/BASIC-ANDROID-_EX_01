@@ -33,16 +33,13 @@ Step 7: Save and run the application.
 ### MainActivity.java:
 ```
 package com.example.andriodlifecycle;
-
 import android.os.Bundle;
 import android.widget.Toast;
-
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -106,7 +103,6 @@ public class MainActivity extends AppCompatActivity {
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -118,7 +114,6 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## OUTPUT:
 ## OnCreate Executed:
 <img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b"  width="200">
@@ -138,5 +133,16 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
+
+
+
 ## RESULT:
+
+
+
+
+
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
