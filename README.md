@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
 ## OnStart Executed:
 <img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="200">
 
-```
+``
 
 
 
